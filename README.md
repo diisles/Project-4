@@ -5,7 +5,7 @@
 ### Overview
 
 For my project 4, I will be creating a **Mapping to a Dropped pin app!**
-Think a barebones uber/lyft app. In other words a user drops a pin to mark theor current location. They then hit a button that will show other users(drivers) within a 5 mile radius to them and track theses users/drivers as their location changes in reference to the dropped pin. 
+Think a barebones uber/lyft app. In other words a user drops a pin to mark their current location. They then hit a button that will show other users(drivers) within a 5 mile radius to them and track theses users/drivers as their location changes in reference to the dropped pin. 
 
 
 
