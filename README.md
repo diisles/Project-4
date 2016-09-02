@@ -24,6 +24,7 @@ I will use the following languages and technologies:
 * Mongo
 * ngCordova
 * Html
+* Google Location API
 
 ---
 
